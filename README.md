@@ -25,7 +25,7 @@ A responsive Mobile Phone Store website that allows users to explore smartphones
 
 🚀 How to Run the Project
 
-1. Clone this repository:git clone https://github.com/sana/MobileStore.git
+1. Clone this repository:https://github.com/Sana9268/my.store.git 
 
 2. Open the project folder:cd MobileStore
 
