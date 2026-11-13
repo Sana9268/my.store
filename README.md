@@ -43,7 +43,7 @@ A responsive Mobile Phone Store website that allows users to explore smartphones
 
 🌐 Live Demo
 
-[View Mobile Phone Store Website](https://sana.github.io/MobileStore/)
+[View Mobile Phone Store Website](https://sana9268.github.io/my.store/)
 
 
 👩‍💻 Author
